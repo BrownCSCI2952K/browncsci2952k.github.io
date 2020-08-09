@@ -62,7 +62,7 @@ hr.smooth
 .publist {width: 900px; margin: 0; margin-top: 10px; margin-bottom: 10px; border: 1px solid #8a887d; padding: 5px; background-color: #f6f3e5;}
 
 /* For people */
-.personlist {width: 400px; margin: 0; margin-top: 10px; margin-bottom: 10px; border: 1px solid #8a887d; padding: 5px; background-color: #f6f3e5;}
+.personlist {width: 360px; margin: 0; margin-top: 10px; margin-bottom: 10px; border: 1px solid #8a887d; padding: 5px; background-color: #f6f3e5;}
 
 
 /* Tabs control */
@@ -205,3 +205,8 @@ li.grid
     box-shadow: 0px 0px 2px #444444;
 }
 
+ul.twocol {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
