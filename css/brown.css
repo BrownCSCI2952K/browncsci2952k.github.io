@@ -64,6 +64,20 @@ hr.smooth
 /* For people */
 .personlist {width: 360px; margin: 0; margin-top: 10px; margin-bottom: 10px; border: 1px solid #8a887d; padding: 5px; background-color: #f6f3e5;}
 
+/* Contact Table */
+.tg  {border-collapse:collapse;border-spacing:0;}
+
+.tg td{border-style:none;font-size:14px;
+  overflow:hidden;padding:10px 30px;word-break:normal;}
+
+.tg th{border-style:none;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+
+.tg .tg-position{font-size:17px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-names{font-size:19px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-images{text-align:left;vertical-align:top}
+.tg .tg-zv4m{text-align:left;vertical-align:top}
+.tg .tg-8jgo{text-align:left;vertical-align:top}
 
 /* Tabs control */
 /* 1000, 800 . Change below to adjust for main page width*/
